@@ -1,0 +1,50 @@
+[
+  {
+    "idItem": 1,
+    "nmItem": "Coca",
+    "idCategoria": 1,
+    "vlUnitario": 3.50,
+    "dsItem": "350ml",
+    "nrQtdeDisponivel": 10.00,
+    "categoria": {
+      "idRegistro": 1,
+      "tpRegistro": "CATEG",
+      "nmRegistro": "Refrigerante",
+      "dtRegistro": "2021-09-22",
+      "flExcluido": false,
+      "dtExclusao": ""
+    }
+  },
+  {
+    "idItem": 2,
+    "nmItem": "Coca2",
+    "idCategoria": 1,
+    "vlUnitario": 32.50,
+    "dsItem": "3520ml",
+    "nrQtdeDisponivel": 120.00,
+    "categoria": {
+      "idRegistro": 1,
+      "tpRegistro": "CATEG",
+      "nmRegistro": "Refrigerante",
+      "dtRegistro": "2021-09-22",
+      "flExcluido": false,
+      "dtExclusao": ""
+    }
+  },
+  {
+    "idItem": 3,
+    "nmItem": "cafe",
+    "idCategoria": 1,
+    "vlUnitario": 2,
+    "dsItem": "quente",
+    "nrQtdeDisponivel": 5,
+    "categoria": {
+      "idRegistro": 1,
+      "tpRegistro": "CATEG",
+      "nmRegistro": "Refrigerante",
+      "dtRegistro": "2021-09-22",
+      "flExcluido": false,
+      "dtExclusao": ""
+    }
+  }
+]
